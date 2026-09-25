@@ -3,6 +3,8 @@
 This logbook documents my contribution to a 5-person team project to design,
 build, and demonstrate a live lunar exploration rover, completed May–June 2024.
 
+[Download Logbook PDF](group_project_y1-compressed.pdf)
+
 ## My contributions documented here:
 - Analog front-end design and LTspice simulation for a 950nm infrared sensor and
   a Hall-effect magnetic sensor
