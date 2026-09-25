@@ -1,4 +1,4 @@
-# Lunar Exploration Rover — Sensor Integration Logbook
+# Lunar Exploration Rover - Sensor Integration Logbook
 
 This logbook documents my contribution to a 5-person team project to design,
 build, and demonstrate a live lunar exploration rover, completed May–June 2024.
